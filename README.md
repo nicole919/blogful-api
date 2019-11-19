@@ -1,3 +1,5 @@
+this is practice for writing GET/POST/DELETE/PATCH endpoints with integration tests
+
 seed database -
 psql -U dunder_mifflin -d blogful -f ./seeds/seed.blogful_articles.sql
 
